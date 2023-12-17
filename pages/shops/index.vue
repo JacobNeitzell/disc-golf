@@ -11,7 +11,7 @@
             Beginner Friendly
           </h3>
           <div class="relative">
-            <img class="w-full rounded-xl" src="https://i5.walmartimages.com/seo/Westside-Discs-Origio-Burst-Disc-Golf-Starter-Set-Beginners-Frisbee-Sets-Include-King-Distance-Driver-Underworld-Fairway-Warship-Midrange-Crown-Putte_2d5fb089-051f-441f-80f2-74d64b892c29.e7bbf65531f71b741a10971d6d5bb697.jpeg" alt="Colors">
+            <img class="w-full rounded-xl " src="https://i5.walmartimages.com/seo/Westside-Discs-Origio-Burst-Disc-Golf-Starter-Set-Beginners-Frisbee-Sets-Include-King-Distance-Driver-Underworld-Fairway-Warship-Midrange-Crown-Putte_2d5fb089-051f-441f-80f2-74d64b892c29.e7bbf65531f71b741a10971d6d5bb697.jpeg" alt="Colors">
             <p class="absolute top-0 bg-yellow-300 text-gray-800 font-semibold py-1 px-3 rounded-br-lg rounded-tl-lg">
               $59.99
             </p>

@@ -3,7 +3,7 @@
 </script>
 
 <template>
-<main>
+  <main>
     <!-- TODO Buttons need links to the FB of clubs  -->
     <div class="min-h-screen  flex justify-center items-center py-20">
       <div class="sm:mb-10 lg:grid lg:grid-cols-5 md:grid-cols-none md:bg-gray-300 bg-gray-300 lg:bg-white lg:h-full">
@@ -111,7 +111,7 @@
           <img class="h-10" src="https://scontent.fboi1-1.fna.fbcdn.net/v/t39.30808-6/300520794_562515379000314_7889237778781213065_n.png?_nc_cat=111&ccb=1-7&_nc_sid=efb6e6&_nc_aid=0&_nc_ohc=tQQtxA5IwFYAX-o2H_v&_nc_ht=scontent.fboi1-1.fna&oh=00_AfAc2YnIcbiQ1lx64nnDMWdwEo49dYgF0ms-bMY5IaaPZA&oe=65813C77" alt="Workcation logo">
           <img class="h-64 sm:h-52 sm:w-full sm:object-cover lg:hidden object-center mt-2 rounded-lg shadow-2xl" src="https://scontent.fboi1-1.fna.fbcdn.net/v/t39.30808-6/397168132_10161047038664220_8837869769825814221_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=d8d9c5&_nc_ohc=XcrBhruAcuoAX9rRIII&_nc_ht=scontent.fboi1-1.fna&oh=00_AfAMr7VDZ4DuzLmvbS8OCwN44s1tGNOUJqFQNaZHWjuxBw&oe=65823BDF" alt="Ad- woman on a beach">
           <h1 class="mt-5 font-bold text-lg lg:mt-7">
-            Bear Island Putting league
+            Bear Island Brewing
           </h1>
           <h1 class="font-bold text-lg text-gray-600">
             Join the club today!
@@ -129,7 +129,7 @@
         </div>
       </div>
     </div>
-</main>
+  </main>
 </template>
 
 <style>
